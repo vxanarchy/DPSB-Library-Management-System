@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/c98a4fdb-857f-4e85-a21a-0250e564016a" alt="DPSB Logo" width="120">
+
+</div>
+
 # 📚 DPSB Library Management System
 
 > **A Java-based Library Management System developed as an academic project by Ahmar Riaz Magrey, Class XII Humanities, Delhi Public School (DPS), Budgam.**
