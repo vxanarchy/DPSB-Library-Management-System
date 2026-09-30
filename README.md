@@ -397,12 +397,34 @@ Possible future improvements could include:
 * ☁️ Cloud-based data storage.
 * 🔍 More advanced search and filtering.
 
+---  
+
+## 📸 Project Preview
+
+### Main Menu
+
+The central interface of the Library Management System, providing access to all major features.
+
+<img width="1263" height="417" alt="Main Menu" src="https://github.com/user-attachments/assets/d7a0d711-171b-4d0a-9e51-84b85fa107ea" />
+
+### Book Issue & Return
+
+Demonstration of the book issue and return functionality, including transaction handling.
+
+<img width="420" height="115" alt="Book Issue & Return" src="https://github.com/user-attachments/assets/e87263c8-ad92-4eba-85ba-9aa8e9f9b8a0" />
+
+### Book Search
+
+Demonstration of the book search functionality for quickly finding library records.
+
+<img width="1212" height="256" alt="Book Search" src="https://github.com/user-attachments/assets/d5186802-b6df-4f9f-a2bd-edb0492e0be7" />
+
 ---
 
 # 👨‍💻 Project Information
 
 **👤 Developer:** Ahmar Riaz Magrey
-**🏫 School:** Delhi Public School (DPS), Budgam
+**🏫 School:** Delhi Public School Budgam
 **🎓 Class:** XII Humanities
 **📚 Project:** Library Management System
 **☕ Programming Language:** Java
