@@ -6,7 +6,7 @@
 
 # 📚 DPSB Library Management System
 
-> **A Java-based Library Management System developed as an academic project by Ahmar Riaz Magrey, Class XII Humanities, Delhi Public School (DPS), Budgam.**
+> **A Java-based Library Management System developed as an academic group project by Ahmar Riaz Magrey, Mummin Khan, Musa Khan, and Hayyan Shah from Class XII (2026–27) at Delhi Public School (DPS), Budgam.**
 
 ---
 
@@ -427,17 +427,25 @@ Demonstration of the book search functionality for quickly finding library recor
 
 ---
 
-# 👨‍💻 Project Information
+### 👨‍💻 Project Information
 
-**👤 Developer:** Ahmar Riaz Magrey
-**🏫 School:** Delhi Public School Budgam
-**🎓 Class:** XII Humanities
-**📚 Project:** Library Management System
-**☕ Programming Language:** Java
-**💻 Application Type:** Console-Based Application
-**💾 Storage:** Local Text Files
-**👩‍🏫 Project Teacher:** Mrs. Tabassum
-**🎯 Purpose:** Academic Project
+**👥 Group Members:** Ahmar Riaz Magrey, Mummin Khan, Musa Khan & Hayyan Shah  
+**🏫 School:** Delhi Public School Budgam  
+**🎓 Class:** XII (2026–27)  
+**📚 Project:** Library Management System  
+**☕ Programming Language:** Java  
+**💻 Application Type:** Console-Based Application  
+**💾 Storage:** Local Text Files  
+**👩‍🏫 Project Teacher:** Mrs. Tabassum  
+**🎯 Purpose:** Academic Group Project
+
+---
+
+### **🎓 Educational Purpose**
+
+This project was developed as an academic group project by Ahmar Riaz Magrey, Mummin Khan, Musa Khan, and Hayyan Shah, students of Class XII (2026–27) at Delhi Public School, Budgam.
+
+The project provides practical experience in designing a structured application, organizing information into classes, handling user input, managing records, and implementing persistent storage.
 
 ---
 
